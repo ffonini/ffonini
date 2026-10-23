@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou o Felipe! 
+### 🎓 Estudante de Ciência da Computação 
 
-<!--
-**ffonini/ffonini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspirante a desenvolvedor de software, apaixonado por tecnologia, resolução de problemas e criação de soluções digitais. Gosto de unir lógica e criatividade para transformar ideias em projetos reais e estou sempre buscando aprender algo novo.
 
-Here are some ideas to get you started:
+* 💻 Desenvolvendo projetos e aprimorando minhas habilidades de programação.
+* 🧠 Interessado em desenvolvimento fullstack, ux, ui e novas tecnologias.
+* 📚 Focado em aprendizado contínuo, boas práticas e desenvolvimento de projetos práticos.
+* 🌎 Inglês: B2 — Intermediário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Meu objetivo
+Construir uma base sólida em desenvolvimento de software, evoluir tanto no frontend quanto no backend e desenvolver aplicações cada vez mais completas, úteis e bem estruturadas.
+
+🛠️ Linguagens e Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,vite,git" />
+</p>
